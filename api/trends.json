@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T23:16:38.890878+08:00",
-  "total_titles_processed": 2110,
+  "generated_at": "2025-11-07T00:19:26.341759+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -8,16 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "英国央行行长贝利：银行利率将沿着渐进的下降路径运行。 通胀风险现在更加平衡。 近几个月服务业消费价格指数的进展有所放缓。 预计到2026年，工资增长将进一步放缓。 看到薪酬增长正常化。 第二轮效应的风险尚未消失。 令人鼓舞的是CPI峰值低于8月预测。 低增长支撑着通胀下降。 劳动力市场正在放缓。 渐进式（降息）可以让我们评估风险的平衡。",
-          "url": "https://wallstreetcn.com/livenews/3000576",
+          "title": "标普500指数跌幅扩大至1%，可选消费板块跌2%，科技板块跌1.6%，电信板块跌1%，能源板块涨1.2%。 纳指跌超1.5%，半导体指数跌2.3%。 特朗普政府关门期间，民间机构提供的美国就业数据引发美债价格上涨。",
+          "url": "https://wallstreetcn.com/livenews/3000653",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
-            26
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 22时16分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         }
       ]
     }
