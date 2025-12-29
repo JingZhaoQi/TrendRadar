@@ -1,25 +1,7 @@
 {
-  "generated_at": "2025-12-29T23:16:59.628351+08:00",
-  "total_titles_processed": 1870,
+  "generated_at": "2025-12-30T00:18:57.094872+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "保险 理财 养老金 养老 健康 医疗 保障 风险 车险 寿险 重疾 重大疾病 理财产品 投资 金价 黄金 美债 美股 美元 政策改革 社会话题 灾害 民生 法律 明星 影视 综艺 音乐 明星婚讯 影视爆款 综艺热议 股票 基金 商业趋势 创业 教育政策 AI 科研 互联网 教育改革 AI热潮 学习方法 婚姻 心理 家庭 亲子 情感关系 心理健康 育儿 运动 营养 疾病防护 三高 癌症防控 运动饮食 购物 穿搭 美妆 家居 双十一 穿搭趋势 美妆新品 历史 人文 阅读 哲学 经典重读 文化事件 艺术展览",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股开盘，道指跌0.19%，标普500指数跌0.43%，纳指跌0.75%。贵金属价格日内重挫，矿业股普遍低开，泛美白银(PAAS.O)、科尔黛伦矿业(CDE.N)、哈莫尼黄金(HMY.N)、纽蒙特矿业(NEM.N)跌约5%。",
-          "url": "https://flash.jin10.com/detail/20251229223023088800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时16分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
