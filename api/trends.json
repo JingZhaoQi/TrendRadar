@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T05:37:21.890183+08:00",
-  "total_titles_processed": 595,
+  "generated_at": "2026-02-11T06:34:24.711068+08:00",
+  "total_titles_processed": 649,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时34分]"
         },
         {
           "title": "周二（2月10日）美股尾盘，彭博电动汽车价格回报指数涨0.70%，报3616.33点。 亚太盘初至美股开盘持稳于3600点附近——维持微幅上涨状态，之后一度加速走高。",
@@ -26,7 +26,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         }
